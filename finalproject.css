@@ -1,0 +1,61 @@
+.menu, .footerbar {
+  background-color: steelblue;
+  margin: 0px;
+  padding: 0px;
+}
+
+.menu a, .footerbar a{
+  display: block;
+  padding: 14px 16px;
+  color:darkblue;
+  text-decoration: none;
+  float: left;
+}
+.menu a:hover, .footerbar a:hover{
+  background-color: #1643ED;
+}
+
+
+
+
+h2{
+  color: hotpink;
+  font-family: fantasy;
+  font-size: 70px;
+  text-align: center;
+}
+
+
+h3{
+  color: #095607;
+  font-family: Brush Script MT;
+  font-size: 50px;
+}
+h4{
+  color: #095607;
+  font-family: Brush Script MT;
+  font-size: 30px;
+  text-align: center;
+}
+body{
+  background-color: #33FFF0;
+  font-size: 20px;
+
+
+}
+
+.one{
+  color: steelblue ;
+  padding: 75px;
+  background-color: pink;
+  margin: 50px;
+  border: 10px solid purple;
+}
+.four{
+  text-align: right;
+
+}
+
+ul{
+  list-style-type: square;
+}
